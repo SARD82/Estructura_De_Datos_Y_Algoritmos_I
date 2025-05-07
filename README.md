@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/46740228.svg)](https://www.ingenieria.unam.mx/programas_academicos/licenciatura/Computacion/04/algoritmos_y_estructuras_de_datos.pdf)[![DOI](https://zenodo.org/badge/46740228.svg)](https://odin.fi-b.unam.mx/salaD/pdf/EDAI/MADO-19_EDAI_v3.pdf)
+
 # Estructura De Datos Y Algoritmos I 
 
 <table>
@@ -16,9 +18,10 @@
 
 Actividades de la materia EDA de la FI UNAM
 
-## Aqui podras encontrar:
+## Aquí Podras Encontrar:
 
 - Actividades en clase.
-- Reportes de Practica de laboratorio.
+- Reportes de práctica de laboratorio.
 - Series.
-- proyectos.
+- Proyectos.
+- Exámenes.
