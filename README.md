@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/46740228.svg)](http://profesores.fi-b.unam.mx/cintia/Temariof.pdf)[![DOI](https://odin.fi-b.unam.mx/salaD/pdf/FP/MADO-17_FPv4.pdf)
+[![DOI](https://zenodo.org/badge/46740228.svg)](https://www.ingenieria.unam.mx/programas_academicos/licenciatura/Computacion/04/algoritmos_y_estructuras_de_datos.pdf)[![DOI](https://zenodo.org/badge/46740228.svg)](https://odin.fi-b.unam.mx/salaD/pdf/EDAI/MADO-19_EDAI_v3.pdf)
 
 # Estructura De Datos Y Algoritmos I 
 
