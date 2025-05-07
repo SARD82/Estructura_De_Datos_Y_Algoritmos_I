@@ -1,6 +1,6 @@
 # Estructura_De_Datos_Y_Algoritmos_I 
 
-<p align="center"><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Escudo-UNAM-escalable.svg" alt="UNAM logo"></a></p>
+<p align="center"><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Escudo-UNAM-escalable.svg" alt="UNAM logo"></p>
 
 Actividades de la materia EDA de la FI UNAM
 
