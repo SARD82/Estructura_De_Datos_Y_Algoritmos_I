@@ -1,15 +1,18 @@
+#Durán Rendón Santiago SARD 
+# Muy buena materia, dejo mi repositorio de github con todos mis trabajos durante este semestre https://github.com/SARD82/Estructura_De_Datos_Y_Algoritmos_I
+
 reservas_activas = []
 canceladas = []  # Pila
 
 def es_hora_valida(hora):
-    partes = hora.split(":")
+    partes = hora.split(":") #split para dividir la cadena de texto y pasarlo a una lista directamente
     if len(partes) != 2:
         return False
     try:
-        h, m = int(partes[0]), int(partes[1])
-        return 0 <= h <= 23 and 0 <= m <= 59
+        h, m = int(partes[0]), int(partes[1]) #Si no se ejecuta el if anterior pasa a este bloque de código que es el try(intenta jajaja)
+        return 0 <= h <= 23 and 0 <= m <= 59 
     except:
-        return False
+        return False #Si hace el try y no funciona pasa a este bloque de código y retorna el falso para evitar que usuarios ingresen letras en lugar de números :)
 
 def agregar_reserva():
     nombre = input("Ingrese el nombre del cliente: ")
@@ -76,6 +79,6 @@ while True:
         revertir_cancelacion()
     elif opcion == '5':
         print("Saliendo del programa.")
-        break
+        break   #Break para salir del programa y romper el while true
     else:
         print("Opción no válida. Intente de nuevo.")
