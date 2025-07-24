@@ -3,7 +3,7 @@ import datetime
 # Información del equipo/desarrollador
 INFO = """
 Sistema de Gestión de Tareas
-Nombres: Artemisa Tsubaki / Joel Garcia / Santiago Duran
+Nombres: Santiago Duran / Artemisa Tsubaki
 Estructuras de Datos y Algoritmos I
 
 """
